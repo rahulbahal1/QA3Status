@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: myngconnect_server_status.staging.Test_Health_Check_STG
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 176.212 sec
